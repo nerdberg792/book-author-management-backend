@@ -1,4 +1,4 @@
-# Project Title
+# Book-Author management Backend 
 
 This is a simple backend written in NodeJs . This code simply manages a book-author database . Simple CURD endpoints are provided . MongoDB along with Mongoose is used as the database solution . I have used a local
 instance of MongoDB . You can use your own MongoDB instance simply by changing the MONGO_URI in the .env file . JWT is used for authorization purposes and Bcrypt is used for storing passwords securely in the database.
