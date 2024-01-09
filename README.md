@@ -26,6 +26,7 @@ cd book-author-management-backend
 npm install
 npm run start 
 ```
+P.S. for running the postman collection , please run the register/login routes first to retrive a bearer token and then keep pasting the token for each request or you may also store the token in an environment variable .
 Thanks for visiting 
 😁
 
